@@ -3,7 +3,7 @@
 $expenses = [
 
 	'Pizza' => 50,
-	'Burger' => 30,
+	'Burger' => 199,
 	'Egg' => 100
 ];
 
